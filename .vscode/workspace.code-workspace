@@ -4,5 +4,17 @@
 			"path": ".."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"Codelabs",
+			"DCDG",
+			"autoauto",
+			"junitreport"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"yzhang.markdown-all-in-one"
+		]
+	}
 }
