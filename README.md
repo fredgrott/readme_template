@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fredgrott)[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Fred_Grott/cv)[![keybase](https://img.shields.io/badge/Keybase-33A0FF?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/fredgrott)[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/fredgrott)[![medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://fredgrott.medium.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredgrottstartupfluttermobileappdesigner/)![dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)![vscode](https://img.shields.io/badge/VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?&style=for-the-badge&logo=android-studio&logoColor=white)![markdown](https://img.shields.io/badge/Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white)![bsdlicense](https://img.shields.io/badge/-BSD_License-61DAFB?&logoColor=white&style=for-the-badge)
 
-[![HitCount](http://hits.dwyl.com/fredgrott/readme_template.svg)](http://hits.dwyl.com/fredgrott/readme_template)![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)[![GitHub forks](https://img.shields.io/github/forks/fredgrott/readme_template.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/fredgrott/readme_template/network/)[![GitHub stars](https://img.shields.io/github/stars/fredgrott/readme_template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/fredgrott/readme_template/stargazers/)[![Stargazers over time](https://starchart.cc/fredgrott/badges.svg)](https://starchart.cc/fredgrott/badges)[![GitHub followers](https://img.shields.io/github/followers/fredgrott.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/fredgrott?tab=followers)[![GitHub contributors](https://img.shields.io/github/contributors/fredgrott/readme_template.svg)](https://GitHub.com/fredgrott/readme_template/graphs/contributors/)[![GitHub issues](https://img.shields.io/github/issues/fredgrott/readme_template.svg)](https://GitHub.com/fredgrott/readme_template/issues/)[![GitHub issues-closed](https://img.shields.io/github/issues-closed/fredgrott/readme_template.svg)](https://GitHub.com/fredgrott/readme_template/issues?q=is%3Aissue+is%3Aclosed)
+[![HitCount](http://hits.dwyl.com/fredgrott/readme_template.svg)](http://hits.dwyl.com/fredgrott/readme_template)![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)[![GitHub forks](https://img.shields.io/github/forks/fredgrott/readme_template.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/fredgrott/readme_template/network/)[![GitHub stars](https://img.shields.io/github/stars/fredgrott/readme_template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/fredgrott/readme_template/stargazers/)[![GitHub followers](https://img.shields.io/github/followers/fredgrott.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/fredgrott?tab=followers)[![GitHub contributors](https://img.shields.io/github/contributors/fredgrott/readme_template.svg)](https://GitHub.com/fredgrott/readme_template/graphs/contributors/)[![GitHub issues](https://img.shields.io/github/issues/fredgrott/readme_template.svg)](https://GitHub.com/fredgrott/readme_template/issues/)[![GitHub issues-closed](https://img.shields.io/github/issues-closed/fredgrott/readme_template.svg)](https://GitHub.com/fredgrott/readme_template/issues?q=is%3Aissue+is%3Aclosed)
 
 A best-in-practice git-repo readme template with these features:
 
@@ -39,11 +39,11 @@ This project is part of a larger collection called:
 
 ## Framework Prerequisites
 
-These prerequisites need to should be installed before the Flutter SDK:
+Install these prerequisites before using the Flutter SDK:
 
 -[Git](https://git-scm.com/)
 
-At least one SDK target. In March 2021 the Flutter SDK requires at least one mobile SDK installed:
+At least one SDK target. In March 2021, the Flutter SDK requires at least one mobile SDK installed:
 
 -[Android SDK, can be auto-installed via the Android Studio Install](https://developer.android.com/studio)
 
@@ -73,7 +73,7 @@ The prerequisites for these dart binaries are:
 
 ## Usage
 
-To use this project you can clone it via the terminal with:
+To use this project, you can clone it via the terminal with:
 
 ```bash
 git clone https://github.com/fredgrott/readme_template
@@ -184,6 +184,6 @@ Dictionaries:
 
 ## Code of Conduct
 
-You cannot joke about something you are not as you will always goof-up on what might be funny for that person thus only joke about yourself instead. If you cannot treat them as you would treat your children, your brothers and sisters, and your parents it may be the wrong action to do towards another person.
+You cannot joke about something you are not as you will always goof-up on what might be funny for that person thus, only joke about yourself instead. If you cannot treat them as you would treat your children, your brothers and sisters, and your parents it may be the wrong action to do towards another person.
 
-And, it goes without saying no racism, sexism, hate of LGBT, hate of creed(and yes atheism is a creed), etc.
+Please, no racism, sexism, hate of LGBT, hate of creed(yes, atheism is a creed), etc.
